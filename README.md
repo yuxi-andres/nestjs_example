@@ -1,8 +1,12 @@
-# trajectory-sns-ws
+# Nest JS Example
 
 ## Description
 
 Web Services to handle the changes in the orders sent by trajectory SNS service
+
+## Documentation
+
+https://docs.nestjs.com/
 
 ## Installation
 
